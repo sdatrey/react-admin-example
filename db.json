@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "24-05-2021"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "24-05-2021"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "24-05-2021"
+    },
+    {
+      "id": "4",
+      "title": "Testing api",
+      "body": "example body",
+      "publishedAt": "24-05-2021"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Shourya",
+      "email": "shouryadevatrey@gmail.com"
+    }
+  ]
+}
