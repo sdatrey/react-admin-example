@@ -4,25 +4,25 @@
       "id": "1",
       "title": "Post One",
       "body": "This is the post body",
-      "publishedAt": "24-05-2021"
+      "publishedAt": "2021-05-23"
     },
     {
       "id": "2",
       "title": "Post Two",
       "body": "This is the post body",
-      "publishedAt": "24-05-2021"
+      "publishedAt": "2021-05-23"
     },
     {
       "id": "3",
       "title": "Post Three",
       "body": "This is the post body",
-      "publishedAt": "24-05-2021"
+      "publishedAt": "2021-05-24"
     },
     {
-      "id": "4",
-      "title": "Testing api",
-      "body": "example body",
-      "publishedAt": "24-05-2021"
+      "title": "New Post",
+      "body": "Hello",
+      "publishedAt": "2021-05-24",
+      "id": "_vIgsG7"
     }
   ],
   "users": [
